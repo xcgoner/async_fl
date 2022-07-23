@@ -1,5 +1,7 @@
 # Asynchronous Federated Optimization
 
+This is the source code for the paper [Asynchronous Federated Optimization](https://arxiv.org/abs/1903.03934)
+
 ### Requirements
 
 The following python packages needs to be installed by pip:
